@@ -7,6 +7,9 @@ http://www.autojcode.com/code/sql2class.jsp
 json生成java类
 http://www.bejson.com/json2javapojo
 
+properties和yml文件相互转换
+http://www.toyaml.com/index.html
+
 
 ## book and code
 电子书搜索
