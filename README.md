@@ -27,6 +27,7 @@ https://searchcode.com/
 https://unsplash.com
 
 好用且免费压缩图片
+https://squoosh.app/
 http://optimizilla.com
 
 
