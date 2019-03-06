@@ -1,9 +1,6 @@
 # Useful-Website-For-Develop
 
 ## java develop
-SQL自动生成Java代码
-http://www.autojcode.com/code/sql2class.jsp
-
 json生成java类
 http://www.bejson.com/json2javapojo
 
