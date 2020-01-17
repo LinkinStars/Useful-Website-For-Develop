@@ -7,7 +7,6 @@ http://www.bejson.com/json2javapojo
 properties和yml文件相互转换
 http://www.toyaml.com/index.html
 
-
 ## book and code
 电子书搜索
 https://www.jiumodiary.com/
@@ -51,3 +50,6 @@ https://www.qianduanmei.com/
 制作视频片头的网站
 https://panzoid.com/
 
+
+## 生成控制台输出用的文字
+http://www.network-science.de/ascii/
