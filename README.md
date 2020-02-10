@@ -57,3 +57,6 @@ http://www.network-science.de/ascii/
 
 ## json2go
 https://mholt.github.io/json-to-go/
+
+## 前端静态资源cdn
+https://cdn.baomitu.com/
