@@ -41,6 +41,8 @@ https://www.gaoding.com
 配色用的网站
 https://webgradients.com/
 
+在线处理图片的网站
+https://www.yasuotu.com/
 
 ## 前端网站资源
 优秀前端展示类型的资源
