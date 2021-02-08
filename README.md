@@ -44,6 +44,9 @@ https://webgradients.com/
 在线处理图片的网站
 https://www.yasuotu.com/
 
+在线给图片添加马赛克
+https://redacted.app/
+
 ## 前端网站资源
 优秀前端展示类型的资源
 https://www.qianduanmei.com/
