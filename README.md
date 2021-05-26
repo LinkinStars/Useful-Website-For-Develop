@@ -69,3 +69,6 @@ https://cdn.baomitu.com/
 
 ## 万能表格转换
 https://tableconvert.com/
+
+## github 加速
+github.com.cnpmjs.org
