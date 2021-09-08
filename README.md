@@ -47,6 +47,9 @@ https://www.yasuotu.com/
 在线给图片添加马赛克
 https://redacted.app/
 
+## 设计参考网站
+https://collectui.com/
+
 ## 前端网站资源
 优秀前端展示类型的资源
 https://www.qianduanmei.com/
