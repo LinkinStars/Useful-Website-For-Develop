@@ -50,15 +50,9 @@ https://redacted.app/
 ## 设计参考网站
 https://collectui.com/
 
-## 前端网站资源
-优秀前端展示类型的资源
-https://www.qianduanmei.com/
-
-
 ## 制作视频
 制作视频片头的网站
 https://panzoid.com/
-
 
 ## 生成控制台输出用的文字
 这个文字样式以后用的到 slant
