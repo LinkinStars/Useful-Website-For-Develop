@@ -69,3 +69,6 @@ https://tableconvert.com/
 
 ## github 加速
 github.com.cnpmjs.org
+
+## 英文字幕查询
+https://youglish.com/
