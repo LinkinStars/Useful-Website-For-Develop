@@ -47,6 +47,9 @@ https://www.yasuotu.com/
 在线给图片添加马赛克
 https://redacted.app/
 
+图标库
+https://fontawesome.com/icons
+
 ## 设计参考网站
 https://collectui.com/
 
