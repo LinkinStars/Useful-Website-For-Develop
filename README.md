@@ -75,3 +75,6 @@ github.com.cnpmjs.org
 
 ## 英文字幕查询
 https://youglish.com/
+
+## 正则表达式
+https://jex.im/regulex/
